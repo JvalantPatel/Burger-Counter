@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=options
+comment0.target=void\ setOptions(java.lang.String[])
+comment1.params=arrayString
+comment1.target=java.lang.String\ getFormattedDescription(java.lang.String[])
+comment2.params=
+comment2.target=void\ printDescription()
+comment3.params=c
+comment3.target=void\ addChild(BurgerComponent)
+comment4.params=c
+comment4.target=void\ removeChild(BurgerComponent)
+comment5.params=i
+comment5.target=BurgerComponent\ getChild(int)
+comment6.params=option
+comment6.target=boolean\ checkEntryInOptions(java.lang.String)
+numComments=7

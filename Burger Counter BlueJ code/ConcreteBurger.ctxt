@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=description\ size\ type
+comment0.target=ConcreteBurger(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=double\ cost()
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=
+comment3.target=java.lang.String\ getSize()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=void\ printDescription()
+comment6.params=c
+comment6.target=void\ addChild(BurgerComponent)
+comment7.params=c
+comment7.target=void\ removeChild(BurgerComponent)
+comment8.params=i
+comment8.target=BurgerComponent\ getChild(int)
+numComments=9

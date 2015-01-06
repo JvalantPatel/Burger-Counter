@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=d\ p
+comment0.target=Leaf(java.lang.String,\ java.lang.Double)
+comment1.params=message\ burger
+comment1.target=Leaf(java.lang.String,\ BurgerComponent)
+comment2.params=
+comment2.target=void\ printDescription()
+comment3.params=c
+comment3.target=void\ addChild(BurgerComponent)
+comment4.params=c
+comment4.target=void\ removeChild(BurgerComponent)
+comment5.params=i
+comment5.target=BurgerComponent\ getChild(int)
+comment6.params=
+comment6.target=double\ cost()
+numComments=7
